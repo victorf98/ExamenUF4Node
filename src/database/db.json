@@ -1,0 +1,22 @@
+{
+  "users": [
+    {
+      "username": "oussamar",
+      "fullName": "Oussama Razzouk",
+      "id": "4d2cd8b7-b351-4366-8ddd-74f18a9331ae",
+      "createdAt": "23/2/2023, 17:52:05",
+      "updatedAt": "23/2/2023, 17:52:05"
+    }
+  ],
+  "tasks": [
+    {
+      "user": "4d2cd8b7-b351-4366-8ddd-74f18a9331ae",
+      "title": "Dormir",
+      "description": "tenim molta son",
+      "status": "DOING",
+      "id": "102ccb74-9602-4afd-90dc-ff92a1015bde",
+      "createdAt": "23/2/2023, 17:52:42",
+      "updatedAt": "23/2/2023, 17:52:42"
+    }
+  ]
+}
